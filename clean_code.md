@@ -101,7 +101,6 @@ Suppose developers deliver features as quickly as possible without considering c
 
 💜 QA team is under the most stress between IT teams. They pass some tests due to stakeholder pressure. Therefore, we should not believe they guarantee code quality.
 
-UNDER THE MOST STRESS
 ## Estimation
 🟣 Give three honest deadline estimations from worst scenario to best scenario to your managers.
 
@@ -109,14 +108,14 @@ UNDER THE MOST STRESS
 
 🟣 Refuse feature estimates that make the team slow in long-term because missing feature estimates cost you to slowness.
 
-# File Structures
+## File Structures
 🟣 Try to stay under ~120 lines of code for each file.
 
 🟣 Prefer 25-45 chars per line and try not to pass 80 chars if there is no necessity.
 
 💜 You can limit the number of characters in a single line to 150 characters via IDE you use.
 
-# Architecture
+## Architecture
 🟣 Make the maintenance effort constant for keeping systems well according to time.
 
 🟣 Minimize the human resources required to build and maintain software systems.
@@ -133,7 +132,7 @@ UNDER THE MOST STRESS
  
 💜 If architecture comes last, cost will grow.
 
-# General
+## General
 🟣 Do not expect you to say that destroys our entire architecture when a small change comes up from customer.
 
 🟣 Make software easily changeable to meet requirements in both today and tomorrow. This is not hardware and it comes from soft.
@@ -142,7 +141,7 @@ UNDER THE MOST STRESS
 
 💜 Software means that easily changeable products opposite to the hardware.
 
-# Teamwork
+## Teamwork
 🟣 Cover your teammates especially when they fail.
 
 🟣 Prefer the pair programming with your teammates for active learning instead of making the code reviews.
